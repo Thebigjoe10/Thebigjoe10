@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Joseph Ejiro, a passionate web developer! 🌐💻
 
-![Web Developer](https://example.com/path/to/your/achievement-logo.png)
+![Web Developer](https://avatars.githubusercontent.com/u/110489359?s=400&u=336b38cd500578f5071b90f0d2c832eb6d2a68d5&v=4)
 
 ## About Me 🧑‍💻
 
