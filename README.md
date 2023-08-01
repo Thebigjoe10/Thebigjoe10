@@ -8,7 +8,10 @@ I'm a web developer with a strong enthusiasm for building dynamic and user-frien
 
 ## Tech Stack 💻
 
-- **Front-end:** 🌐 HTML, 🎨 CSS (with Tailwind CSS and Bootstrap), 🚀 JavaScript (jQuery), ⚛️React(Currently learning!)
+- **Front-end:** 🌐 HTML,
+- 🎨 CSS (with Tailwind CSS and Bootstrap),
+-  🚀 JavaScript (jQuery),
+-  ⚛️React(Currently learning!)
 - **Back-end:** 🖥️ Node.js, 🌐 Express
 - **Database:** 📚 MongoDB, 🗄️ MySQL
 - **Version Control:** 🗂️ Git, 🐙 GitHub
@@ -35,7 +38,7 @@ Feel free to ask me about web development, React, Node.js, or anything related t
 
 ## 📫 How to reach me: ...
 
-You can reach out to me via email at jojosr001@gmail.com or connect with me on LinkedIn [here](https://www.linkendin.com/in/joseph-ejiro-165097239). Let's have a chat about coding, development opportunities, or anything you'd like to discuss!
+You can reach out to me via email at jojosr001@gmail.com or connect with me on LinkedIn [here](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=joseph-ejiro-165097239). Let's have a chat about coding, development opportunities, or anything you'd like to discuss!
 
 ## 😄 Pronouns: ...
 
