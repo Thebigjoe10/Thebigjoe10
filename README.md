@@ -35,7 +35,7 @@ Feel free to ask me about web development, React, Node.js, or anything related t
 
 ## 📫 How to reach me: ...
 
-You can reach out to me via email at your.email@example.com or connect with me on LinkedIn [here](https://www.linkedin.com/in/your-profile-link/). Let's have a chat about coding, development opportunities, or anything you'd like to discuss!
+You can reach out to me via email at jojosr001@gmail.com or connect with me on LinkedIn [here](https://www.linkedin.com/in/your-profile-link/). Let's have a chat about coding, development opportunities, or anything you'd like to discuss!
 
 ## 😄 Pronouns: ...
 
