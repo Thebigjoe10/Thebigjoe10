@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Joseph Ejiro, a passionate web developer! 🌐💻
 
-![Web Developer](https://twitter.com/josycodes_/header_photo)
+![Web Developer](https://pbs.twimg.com/profile_banners/1741497450911694848/1704212015/1500x500)
 
 ## About Me 🧑‍💻
 
