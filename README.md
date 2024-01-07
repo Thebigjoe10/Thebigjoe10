@@ -10,27 +10,12 @@ I'm a web developer with a strong enthusiasm for building dynamic and user-frien
 
 - **Front-end:** 🌐 HTML,
 - 🎨 CSS (with Tailwind CSS and Bootstrap),
--  🚀 JavaScript (jQuery),
--  ⚛️React(Currently learning!)
+-  🚀 JavaScript
+-  (jQuery) just for animations,
+-  ⚛️React
 - **Back-end:** 🖥️ Node.js, 🌐 Express
 - **Database:** 📚 MongoDB, 🗄️ MySQL
 - **Version Control:** 🗂️ Git, 🐙 GitHub
-
-## Current Project 🚀
-
-🎯 **GPA Calculator:** This project helps students and educators efficiently calculate GPAs by providing an intuitive interface and smart algorithms. It's being built using React, Node.js, and MongoDB to ensure a seamless user experience.
-
-## Learning Journey 📚
-
-🌱 Currently, I'm diving deep into the world of React. I find it fascinating to create reusable components and build responsive user interfaces. My learning journey is an ongoing adventure, and I'm always on the lookout for exciting challenges and opportunities to expand my skillset.
-
-## Collaboration and Open Source 💬
-
-I thrive in a collaborative environment, and I'm excited to be working with a fantastic team of 15+ developers on various projects. Together, we're making the web a better place, one line of code at a time! I'm always open to collaborating on more open-source projects to contribute to the community and learn from the best minds.
-
-## I’m looking for help with ...
-
-I'm currently working on enhancing the user experience of the GPA calculator project. If you have experience with React or front-end design, I would love to get your insights and suggestions on improving the project further.
 
 ## 💬 Ask me about ...
 
