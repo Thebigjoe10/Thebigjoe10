@@ -14,7 +14,7 @@ I'm a web developer with a strong enthusiasm for building dynamic and user-frien
 -  (jQuery) just for animations,
 -  ⚛️React
 - **Back-end:** 🖥️ Node.js, 🌐 Express
-- **Database:** 📚 MongoDB, 🗄️ MySQL
+- **Database:** 📚 MongoDB
 - **Version Control:** 🗂️ Git, 🐙 GitHub
 
 ## 💬 Ask me about ...
