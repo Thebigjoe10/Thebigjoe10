@@ -4,7 +4,7 @@
 
 ## About Me 🧑‍💻
 
-I'm a web developer with a strong enthusiasm for building dynamic and user-friendly web applications. My current focus is on developing a GPA calculator project that aims to streamline academic performance evaluation. The project showcases my skills in front-end development, back-end logic, and database management.
+I'm a web developer with a strong enthusiasm for building dynamic and user-friendly web applications. 
 
 ## Tech Stack 💻
 
