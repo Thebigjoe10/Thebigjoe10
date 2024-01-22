@@ -6,6 +6,8 @@
 
 I'm a web developer with a strong enthusiasm for building dynamic and user-friendly web applications. 
 
+<a href="https://app.daily.dev/josyejiro"><img src="https://api.daily.dev/devcards/7d81395aa16a41b7b6996951f8c7a79b.png?r=yhh" width="400" alt="Josy Ejiro's Dev Card"/></a>
+
 ## Tech Stack 💻
 
 - **Front-end:** 🌐 HTML,
