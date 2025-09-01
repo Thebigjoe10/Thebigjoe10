@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Joseph Ejiro, a passionate web developer! 🌐💻
+## Hi there! 👋 I'm Joseph Ejiro, a passionate software developer! 🌐💻
 
 ![Web Developer](https://pbs.twimg.com/profile_banners/1274259964429729793/1704486655/1500x500)
 
