@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Joseph Ejiro, a passionate software developer! 🌐💻
+## Hi there! 👋 I'm Joseph Ejiro, a software developer! 🌐💻
 
 ![Web Developer](https://pbs.twimg.com/profile_banners/1274259964429729793/1704486655/1500x500)
 
@@ -13,8 +13,8 @@ I'm a Software Engineer specialized in web development, with a strong enthusiasm
 - **Front-end:** 🌐 HTML,
 - 🎨 CSS (with Tailwind CSS and Bootstrap),
 -  🚀 JavaScript
--  (jQuery) just for animations,
 -  ⚛️React
+-  Nextjs
 - **Back-end:** 🖥️ Node.js, 🌐 Express & Django
 - **Database:** 📚 MongoDB & POSTGRESQL
 - **Version Control:** 🗂️ Git, 🐙 GitHub
